@@ -1,0 +1,11 @@
+# Python virtual environments and bytecode
+.venv/
+__pycache__/
+*.pyc
+
+# JavaScript dependencies (not used yet, kept out of the repo if added)
+node_modules/
+
+# Saved data files: each user's tasks are personal and must not be committed
+*.jsonl
+tasks.json
